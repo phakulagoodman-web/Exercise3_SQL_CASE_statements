@@ -1,1 +1,1 @@
-# Exercise3_SQL_CASE_statements
+# Exercise3_SQL_CASE_statements Handwritten
